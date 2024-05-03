@@ -1,4 +1,4 @@
-# TechTitans- Stroke-Prediction-Modelling
+# TechTitans: Stroke-Prediction-Modelling
 
 Kaggle Dataset Link: https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset/code 
 
@@ -56,7 +56,8 @@ It continuously improves with more data.
 # Exploratory Data Analysis (EDA)
 
 Only the main EDA is listed in the README.md
-All graphs are listed in the notebook: 
+
+All graphs are listed in the notebook: https://github.com/SGajadhar/TechTitans-Stroke-Prediction-Modelling/blob/97bfc523ede5f174408eecb9b3360ccfc2f7e23b/COMP3608Project_Stroke_Prediction_ModellingUpdated.ipynb 
 
 ![download](https://github.com/SGajadhar/TechTitans-Stroke-Prediction-Modelling/assets/97929776/d4e6a752-a124-42bd-9d9d-d15f6f33061c)
 
@@ -76,7 +77,7 @@ In order to remedy the imbalance of the data set, oversampling will be utilised.
 
 # Modelling and Model Tuning 
 
-Notebook Link: 
+Notebook Link: https://github.com/SGajadhar/TechTitans-Stroke-Prediction-Modelling/blob/97bfc523ede5f174408eecb9b3360ccfc2f7e23b/COMP3608Project_Stroke_Prediction_ModellingUpdated.ipynb 
 
 # Conclusion 
 
